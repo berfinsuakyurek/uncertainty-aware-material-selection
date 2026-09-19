@@ -71,6 +71,18 @@ the baseline framework.
 `material_id` and `formula` are retained for reporting and material
 identification but are not used as predictive features.
 
+### Data Source and License
+
+The dataset corresponds to the elastic-properties dataset *Charting the Complete Elastic Properties of Inorganic Crystalline Compounds*, containing DFT-calculated elastic properties for 1,181 inorganic crystalline materials.
+
+- **Dataset:** Elastic Tensor / `elastic_tensor_2015`
+- **Source:** Materials Data Facility / Foundry-ML
+- **DOI:** https://doi.org/10.18126/9fg1-528u
+- **License:** CC BY 4.0
+- **Original study:** de Jong et al., *Scientific Data* (2015), “Charting the complete elastic properties of inorganic crystalline compounds.”
+
+The dataset is redistributed in this repository for reproducibility under the CC BY 4.0 license. Attribution remains with the original dataset authors and data providers.
+
 ## Data Splitting
 
 A fixed random seed (`random_state=42`) was used to create:
