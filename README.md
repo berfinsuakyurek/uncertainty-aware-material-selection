@@ -43,7 +43,7 @@ Performance–uncertainty Pareto frontier
 Decision profiles
         ↓
 Material selection support
-
+```
 ## Dataset
 
 The project uses an elastic-properties materials dataset containing **1,181
