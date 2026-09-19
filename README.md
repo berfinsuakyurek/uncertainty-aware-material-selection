@@ -317,8 +317,8 @@ Uncertainty-Aware-Material-Selection/
 Clone the repository and create a virtual environment:
 
 ```bash
-git clone <repository-url>
-cd Uncertainty-Aware-Material-Selection
+git clone https://github.com/berfinsuakyurek/uncertainty-aware-material-selection.git
+cd uncertainty-aware-material-selection
 
 python -m venv .venv
 source .venv/bin/activate
